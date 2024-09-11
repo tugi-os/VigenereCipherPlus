@@ -42,6 +42,6 @@ In the `examples/example_usage.py` file, you can also find example code for decr
 To use this project, clone the repository and run the script:
 
 ```bash
-git clone https://github.com/yourusername/vigenere-cipher-random-shifts.git
+git clone https://github.com/tugi-os/vigenere-cipher-random-shifts.git
 cd vigenere-cipher-random-shifts
 python vigenere_cipher.py
